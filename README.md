@@ -290,35 +290,6 @@ Wishlist
 
 ---
 
-## 📸 Screenshots
-
-Add your actual project screenshots inside the `screenshots` folder.
-
-### 🏠 Home Page
-
-```markdown
-![Home Page](./screenshots/home.png)
-```
-
-### 📊 Dashboard
-
-```markdown
-![Dashboard](./screenshots/dashboard.png)
-```
-
-### 🎁 Gift Groups
-
-```markdown
-![Gift Groups](./screenshots/groups.png)
-```
-
-### 📝 Wishlist
-
-```markdown
-![Wishlist](./screenshots/wishlist.png)
-```
-
----
 
 ## 🔒 Security
 
